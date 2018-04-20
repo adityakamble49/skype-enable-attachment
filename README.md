@@ -22,7 +22,7 @@ Use build.bat to build binary exe file
 D:\workspace\skype-enable-attachments>build.bat
 ```
 
-### License
+## License
 -------
     Copyright 2018 Aditya Kamble
 
