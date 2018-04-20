@@ -2,12 +2,12 @@
 /bin
 
 # Ignore binary files
-.exe
-.syso
-.exe~
-.dll
-.so
-.dylib
+*.exe
+*.syso
+*.exe~
+*.dll
+*.so
+*.dylib
 
 # Ignore IDE / Editor directories
 .vscode/
