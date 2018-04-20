@@ -1,0 +1,14 @@
+# Ignore build directories
+/bin
+
+# Ignore binary files
+.exe
+.syso
+.exe~
+.dll
+.so
+.dylib
+
+# Ignore IDE / Editor directories
+.vscode/
+.idea/
